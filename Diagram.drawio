@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T19:11:44.337Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="YAbyYq0CsrmSpi6fbf8O" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-28T19:19:34.023Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DUyI6sT0hgGYuPu9NKhP" version="20.2.7" type="github" pages="2">
   <diagram id="7UlVRwlyegr4FhzEtUno" name="Service Design">
     <mxGraphModel dx="810" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -114,8 +114,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9YIgchQwDhizgGaYhz4Y" name="Page-2">
-    <mxGraphModel dx="2180" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="9YIgchQwDhizgGaYhz4Y" name="Consul Cluster">
+    <mxGraphModel dx="1910" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NOGFLZ6ogDhnEa0tmBLq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.031;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NOGFLZ6ogDhnEa0tmBLq-19" target="NOGFLZ6ogDhnEa0tmBLq-34">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="90" />
+              <mxPoint x="20" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NOGFLZ6ogDhnEa0tmBLq-19" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="40" y="-80" width="280" height="680" as="geometry" />
@@ -217,8 +222,26 @@
         <mxCell id="NOGFLZ6ogDhnEa0tmBLq-33" value="CONSUL&lt;br&gt;CLUSTER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="245" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NOGFLZ6ogDhnEa0tmBLq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NOGFLZ6ogDhnEa0tmBLq-34" target="NOGFLZ6ogDhnEa0tmBLq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NOGFLZ6ogDhnEa0tmBLq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.001;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NOGFLZ6ogDhnEa0tmBLq-34" target="NOGFLZ6ogDhnEa0tmBLq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NOGFLZ6ogDhnEa0tmBLq-34" value="A&lt;br&gt;P&lt;br&gt;I&lt;br&gt;&lt;br&gt;G&lt;br&gt;A&lt;br&gt;T&lt;br&gt;E&lt;br&gt;W&lt;br&gt;A&lt;br&gt;Y" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-10" width="120" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="NOGFLZ6ogDhnEa0tmBLq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NOGFLZ6ogDhnEa0tmBLq-44" target="NOGFLZ6ogDhnEa0tmBLq-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NOGFLZ6ogDhnEa0tmBLq-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="170" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NOGFLZ6ogDhnEa0tmBLq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NOGFLZ6ogDhnEa0tmBLq-45" target="NOGFLZ6ogDhnEa0tmBLq-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NOGFLZ6ogDhnEa0tmBLq-45" value="" style="shape=actor;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="290" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
