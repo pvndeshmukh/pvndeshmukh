@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pvndeshmukh
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning microservices, ci-cd & cloud
-- 💞️ I’m looking to collaborate on anything where I can contribute
-- 📫 You can reach me here https://www.linkedin.com/in/pvndeshmukh/ 
+
+![alt text](https://github.com/pvndeshmukh/pvndeshmukh/blob/8c44c0377dd647c0ad7bfdc62a7ac26f0b62d927/kaizen_transperent.png?raw=true)
+<p align="center">
+#AlwaysLearning #AlwaysImproving #NeverStop  
+</p>
 
 <!---
 pvndeshmukh/pvndeshmukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
