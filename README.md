@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="https://github.com/pvndeshmukh/pvndeshmukh/blob/eab3f0089419c19c3afa6895e644c6acf0deb101/kaizen_transperent_crop.png">
+    <img width="500" src="https://github.com/pvndeshmukh/about/blob/3676e4905692edc1542c8f31063f541913c8f904/kaizen_transperent_crop.png">
 </p>
 <p align="center">
 #AlwaysLearning #AlwaysImproving #NeverStop  
