@@ -9,8 +9,8 @@ A passionate programmer, with strong algorithms data modeling, and system design
 * 🌍  I'm based in Pune, India
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/pvndeshmukh)
 * ✉️  You can contact me at [pavandeshmukheng@gmail.com](mailto:pavandeshmukheng@gmail.com)
-* 🧠  I'm learning Cloud Engineering | DevOps | React | Angular
-* 🤝  I'm open to collaborating on Projects
+* 🧠  Practicing .NET | Cloud Engineering | DevOps | React | Angular
+* 🤝  I'm open to collaborating on Projects that can help me upscale
 * ⚡  Belive In KAIZEN (n.) philosophy of continuous improvement; becoming one percent better every day
 
 <a href="https://www.github.com/pvndeshmukh" target="_blank" rel="noreferrer"><img
