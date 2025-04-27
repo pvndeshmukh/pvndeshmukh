@@ -1,17 +1,17 @@
 Hi 👋 My name is Pavan Deshmukh
 ===============================
 
-FullStack Developer
+.NET Full Stack Developer
 -------------------
 
-A passionate programmer, with strong algorithms data modeling, and system design skills. Extensive experience in building scalable, maintainable, and fault-tolerant systems. Learning and working in a rapidly evolving ecosystem excites me.
+A passionate programmer with strong algorithms, data modeling, and system design skills. Extensive experience in building scalable, maintainable, and fault-tolerant systems. Learning and working in a rapidly evolving ecosystem excites me.
 
 * 🌍  I'm based in Pune, India
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/pvndeshmukh)
 * ✉️  You can contact me at [pavandeshmukheng@gmail.com](mailto:pavandeshmukheng@gmail.com)
-* 🧠  Practicing .NET | Cloud Engineering | DevOps | React | Angular
+* 🧠  Practicing .NET | Cloud Engineering | Microservices | AWS | Azure | DevOps | CI/CD | React | Angular
 * 🤝  I'm open to collab on projects that can help me upscale
-* ⚡  Belive In KAIZEN (n.) philosophy of continuous improvement; becoming one percent better every day
+* ⚡  Believe in KAIZEN (n.) philosophy of continuous improvement; becoming one percent better every day
 
 <a href="https://www.github.com/pvndeshmukh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pvndeshmukh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/pvndeshmukh" target="_blank" rel="noreferrer"><img
