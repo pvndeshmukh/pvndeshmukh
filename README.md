@@ -14,7 +14,7 @@ A passionate and results-driven technologist with 13+ years of experience in bui
 AI Agents • Test Cloud Engineering • Serverless • Domain-Driven Design (DDD)
 
 * 📍  **Location:** Pune, India
-* 🌐  **Portfolio:** [LinkedIn Profile](http://https://www.linkedin.com/in/pvndeshmukh)
+* 🌐  **Portfolio:** [LinkedIn Profile](https://www.linkedin.com/in/pvndeshmukh)
 * 📫  **Email:** [pavandeshmukh.in@gmail.com](mailto:pavandeshmukh.in@gmail.com)
 * 🤝  **Let's collaborate on:** Innovative tech projects, open-source contributions
 * ⚡  **Philosophy:** *KAIZEN (n.)* – Continuous improvement, one step at a time; becoming one percent better every day
